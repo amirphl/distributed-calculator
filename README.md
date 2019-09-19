@@ -18,3 +18,7 @@ java -jar sender.jar 127.0.0.1 56478
 
 ## Note
 only one client can connect to server.
+
+## Authors
+main author: Mahdi Ghanbari  
+editor: me!
